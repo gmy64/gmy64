@@ -1,16 +1,20 @@
-## Hi there 👋
+# 郭美妤
+西安工程大学 · 网络安全学院
+对 Agent 和 Python 感兴趣，有一点 C 语言基础，正在准备 CTF。
 
-<!--
-**gmy64/gmy64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 技能
 
-Here are some ideas to get you started:
+  - Python
+  - C（基础）
+  - 网络安全 / CTF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 关于我
+
+  - 🎓 西安工程大学网络安全学院
+  - 🤖 对 Agent 方向感兴趣
+  - 🐍 喜欢 Python
+  - 🚩 正在准备 CTF
+
+  ## 联系我
+
+  - GitHub: [@gmy64](https://github.com/gmy64)
